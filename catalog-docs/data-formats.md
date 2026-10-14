@@ -1,5 +1,4 @@
 ---
-title: Data formats
 description: 'Learn what data formats the Funnel panel accepts.'
 sidebar_position: 2
 ---
